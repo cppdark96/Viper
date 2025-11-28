@@ -8,3 +8,7 @@ Viper is an ArchLinux distro, that is in current development, designed to be par
 the distro suitable for workstation and gaming use.
 
 
+Download the first BETA on sourceforge:
+https://sourceforge.net/projects/viper/files/viper-beta-iso/
+
+NOTE: the ISO includes apps, libraries and dependencies for gaming alrady, please have patience while we work on the system.
