@@ -11,4 +11,4 @@ the distro suitable for workstation and gaming use.
 Download the first BETA on sourceforge:
 https://sourceforge.net/projects/viper/files/viper-beta-iso/
 
-NOTE: the ISO includes apps, libraries and dependencies for gaming alrady, please have patience while we work on the system.
+NOTE: the ISO includes apps, libraries and dependencies for gaming already, please have patience while we work on the system.
