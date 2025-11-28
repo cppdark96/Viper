@@ -1,5 +1,3 @@
-# Viper
-
 <p align="center">
   <img src="https://images2.imgbox.com/8f/99/mftQy3Rw_o.png" alt="Viper Logo" width="400"/>
 </p>
